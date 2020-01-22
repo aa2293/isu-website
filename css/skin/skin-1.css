@@ -1,0 +1,127 @@
+/*-------------------------------------- Skin 1 css #2b50f0 ----------------------------------------*/
+
+.btn-primary,
+.btn-primary:hover,
+.btn-defualt:hover,
+.single-post-detail .blog-detail .post-detail .about-post .special-quote,
+.owl-main .owl-dots button.owl-dot.active {
+	background: #2b50f0;
+	border-color: #2b50f0;
+}
+
+.qualities .column h5::after,
+.single-post-detail .blog-detail .post-detail .about-post .special-quote,
+.blog_post .post-detail::before,
+.heading h2::after,
+.about-us::before,
+.about-us .counter-column::before,
+.about-us .counter-column::after,
+.qualities .column .icon,
+.qualities .column:hover,
+.services .item:hover,
+.our_team,
+.portfolio .item .project .project-detail::after,
+.portfolio::after,
+.testimonials .circle.strong-border,
+nav ul.pagination .page-item.active .page-link,
+nav ul.pagination .page-link:hover,
+.services.style-2::before,
+.pricing .ultimate,
+.single-post-detail .tags_share .tags ul li a:hover,
+.dropdown-item a:hover,
+.sticky .navbar-toggler-icon,
+.tags ul li a:hover,
+.top-fold::before,
+.slider.style-2 .owl-main .on-dark.btn-primary,
+header.header-2.sticky .navbar-toggler-icon,
+.owl-dots .owl-dot.active span,
+.inner header .navbar-toggler-icon {
+	background: #2b50f0 !important;
+}
+
+.heading h2 span,
+.about-us .counter-column::before,
+.about-us .counter-column .counter,
+.services .item h5 a:hover,
+.services .item i::before,
+.our_team .team-card .member-detail h5,
+.our_team .team-card .social-links ul li a:hover i::before,
+.blog_post .post-detail:hover h5 a,
+.portfolio .owl-item .project .project-detail h5 a:hover,
+.portfolio-detail .about_project i::before,
+.single-post-detail .tags_share .share_on .icons a i:hover::before,
+.single-post-detail .author_sec .about-author .name_designation h6,
+.single-post-detail .author_sec .about-author .social_media ul li a:hover,
+.single-post-detail .comments h5 span,
+.single-post-detail .comments ol li .visitor_description .date,
+.single-post-detail .comments ol li .visitor_description a,
+
+.post-detail .post-status ul li i,
+.post-detail .post-status ul li i::before,
+.post-detail .description a,
+.qualities-2 .column .icon i:before,
+.pricing .price_amount strong,
+.testimonials .item .client-sec .client-detail .client-name,
+.contact_info ul li .icon i::before,
+.contact_info ul li .detail a:hover,
+.single-post-detail .sidebar .widget .widget-content .post-item .post-content .post-status i::before,
+ol.breadcrumb li a:hover,
+header.sticky .navbar-nav .nav-item:hover>a,
+header.sticky .navbar-nav .nav-item:hover>a.dropdown-toggle::after,
+header.sticky .nav-brand a,
+header.sticky .navbar-nav .nav-item.active>a,
+header.sticky .navbar-nav .nav-item.active a.dropdown-toggle::after,
+header.header-2.sticky .navbar-nav .nav-item:hover>a,
+header.header-2.sticky .navbar-nav .nav-item:hover>a.dropdown-toggle::after,
+.inner header .navbar-nav .nav-item.active>a,
+.inner header .navbar-nav .nav-item.active a.dropdown-toggle::after,
+.inner header .nav-brand a {
+	color: #2b50f0 !important;
+}
+
+.circle.strong-border {
+	border: solid 80px #2b50f0;
+}
+
+.dropdown-menu {
+	border-top: solid 3px #2b50f0;
+}
+
+nav ul.pagination .page-item.active .page-link,
+nav ul.pagination .page-link:hover,
+.qualities .column:hover,
+.services .item:hover,
+.tags ul li a:hover {
+	border: solid 1px #2b50f0 !important;
+}
+
+.slider .owl-main .item::after,
+.slider .owl-main .item::before,
+.qualities .video::after {
+	background-color: rgba(43, 80, 240, 0.8);
+}
+
+.rays:before,
+.rays:after {
+	border: solid 1px rgba(43, 80, 240, 0.3);
+	background-color: rgba(43, 80, 240, 0.4);
+}
+
+.portfolio .owl-item .project .zoom:hover {
+	background-color: rgba(43, 80, 240, 0.8);
+}
+
+.single-post-detail .blog-detail .post-detail .about-post .special-quote {
+	background-color: rgba(43, 80, 240, 0.5);
+}
+
+.box-shadow:hover {
+	-webkit-box-shadow: 3px 28px 24px -33px rgba(43, 80, 240, 1);
+	-moz-box-shadow: 3px 28px 24px -33px rgba(43, 80, 240, 1);
+	box-shadow: 3px 28px 24px -33px rgba(43, 80, 240, 1);
+}
+
+.pricing .ultimate {
+	-webkit-box-shadow: 0px 5px 32px -7px rgba(43, 80, 240, 0.78);
+}
+
