@@ -2599,3 +2599,16 @@ footer.small .bottom {
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+.newsletter {
+    background-color: #007bff;
+}
+
+.newsletter-link {
+    color: white;
+    text-decoration: underline;
+}
+
+.newsletter-link:hover {
+    text-decoration: underline;
+}
