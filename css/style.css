@@ -2612,3 +2612,7 @@ footer.small .bottom {
 .newsletter-link:hover {
     text-decoration: underline;
 }
+
+.secondary-apply:hover::after {
+  color: #FFF;
+}
