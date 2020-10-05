@@ -1230,12 +1230,12 @@ section.inner {
 
 .page-heading h2, .page-heading h2 span {
     color: #fff !important;
-    line-height: 30px;
+    line-height: 54px;
 }
 
 .page-heading::after {
     content: '';
-    background: rgba(29, 20, 20, 0.8);
+    background: #212841;
     top: 0;
     background-size: 20% auto;
     z-index: 0;
