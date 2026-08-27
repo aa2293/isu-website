@@ -665,6 +665,7 @@ header.stuck .logo {
   z-index: 9;
   position: relative;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .our_team .team-card .pic-sec img {
