@@ -2204,7 +2204,7 @@ header.header-2 .navbar-toggler-icon {
   right: 0 !important;
   border-radius: 800px 800px 0 0;
   top: 0;
-  background: #262626 !important;
+  background: linear-gradient(180deg, rgba(23,28,66,.22), rgba(23,28,66,.08)), url(../img/world.png) center 30% / cover no-repeat !important;
   opacity: 1;
   margin: 0px auto;
 }
